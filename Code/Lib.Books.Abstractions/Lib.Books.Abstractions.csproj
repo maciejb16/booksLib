@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lib.Books.Models\Lib.Books.Models.csproj" />
+    <ProjectReference Include="..\Lib.Results\Lib.Results.csproj" />
+  </ItemGroup>
+
+</Project>
